@@ -33,7 +33,7 @@ Execute the program using runserver command.
 <title>Google <div class="Timetable"></div></title>
     <body> 
      <center> 
-     <img src="/static/logo.png" height="150" width="800">
+     <img src="slot/static/logo.png" height="150" width="800">
      </center>
       <h3 align="center">  SLOT TIME TABLE - STUDENT NAME ( ROLL NO. ) </h3>
         <table align="center" border="5" cellpadding="6" cellspacing="2" bgcolor="cyan">
